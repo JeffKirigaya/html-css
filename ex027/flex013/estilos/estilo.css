@@ -43,6 +43,7 @@ div#container > a {
 div#container > a:hover {
     background-color: white;
     color: black;
+    transition: background-color .5s;
 }
 
 div#container {
